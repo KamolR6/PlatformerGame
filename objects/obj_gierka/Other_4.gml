@@ -18,8 +18,24 @@ wys_pok = room_height / 64
 //}
 
 var _map = ds_map_create()
+
 _map[? 1] = obj_sciana
+_map[? 2] = obj_sciana
+_map[? 10] = obj_sciana
+_map[? 11] = obj_sciana
+_map[? 12] = obj_sciana
+_map[? 16] = obj_sciana
+_map[? 17] = obj_sciana
+_map[? 32] = obj_sciana
+_map[? 33] = obj_sciana
+
 _map[? 7] = obj_wall_icy
+_map[? 8] = obj_wall_icy
+_map[? 23] = obj_wall_icy
+_map[? 38] = obj_wall_icy
+
+
+
 
 scr_spawn_objects_from_tiles("TileLayer", _map)
 
