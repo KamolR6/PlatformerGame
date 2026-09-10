@@ -1,0 +1,18 @@
+used_charges = 0
+ui = true
+szer_pok = room_width / 64
+wys_pok = room_height / 64
+show_debug_message(string(szer_pok) + " " + string(wys_pok))
+if(room != r_menu){
+	for(i = 0; i < szer_pok; i++){
+		//i = x
+		//j = y
+		for(j = 0; j < wys_pok; j++){
+			show_debug_message(string(i) + ", " + string(j))
+		
+			if(i == 0 || i == szer_pok - 1 || j == 0 || j = wys_pok - 1){
+				instance_create_layer(i*64,j*64,"Instances",obj_sciana)
+			}
+		}
+	}
+}

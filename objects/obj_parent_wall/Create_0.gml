@@ -1,0 +1,1 @@
+surface_friction = 0.1;

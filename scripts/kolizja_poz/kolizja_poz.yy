@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"kolizja_poz",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"kolizja_poz",
+  "parent":{
+    "name":"Skrypty",
+    "path":"folders/Skrypty.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

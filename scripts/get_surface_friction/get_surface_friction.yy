@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"get_surface_friction",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_surface_friction",
+  "parent":{
+    "name":"Skrypty",
+    "path":"folders/Skrypty.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
