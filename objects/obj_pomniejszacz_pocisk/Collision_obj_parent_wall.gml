@@ -1,1 +1,3 @@
-instance_destroy()
+if(!cooldown){
+	instance_destroy()
+}
