@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"save_game",
   "parent":{
-    "name":"Skrypty",
-    "path":"folders/Skrypty.yy",
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

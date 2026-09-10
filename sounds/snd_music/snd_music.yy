@@ -15,7 +15,7 @@
   "name":"snd_music",
   "parent":{
     "name":"Music",
-    "path":"folders/Dźwięki/Music.yy",
+    "path":"folders/Sounds/Music.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

@@ -8,8 +8,8 @@
   "name":"obj_portal",
   "overriddenProperties":[],
   "parent":{
-    "name":"Obiekty",
-    "path":"folders/Obiekty.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

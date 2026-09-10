@@ -611,8 +611,8 @@
   "maintainGms1Font":false,
   "name":"f_default",
   "parent":{
-    "name":"Czcionki",
-    "path":"folders/Czcionki.yy",
+    "name":"Fonts",
+    "path":"folders/Fonts.yy",
   },
   "pointRounding":0,
   "ranges":[

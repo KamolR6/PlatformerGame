@@ -15,7 +15,7 @@
   "name":"snd_resize",
   "parent":{
     "name":"SFX",
-    "path":"folders/Dźwięki/SFX.yy",
+    "path":"folders/Sounds/SFX.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

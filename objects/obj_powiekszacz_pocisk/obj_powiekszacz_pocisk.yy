@@ -14,7 +14,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Resizers",
-    "path":"folders/Obiekty/Resizers.yy",
+    "path":"folders/Objects/Resizers.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"load_game",
   "parent":{
-    "name":"Skrypty",
-    "path":"folders/Skrypty.yy",
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

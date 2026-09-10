@@ -54,8 +54,8 @@
   ],
   "name":"tmp",
   "parent":{
-    "name":"Plansze",
-    "path":"folders/Plansze.yy",
+    "name":"Rooms",
+    "path":"folders/Rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
