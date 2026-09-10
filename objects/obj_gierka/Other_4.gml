@@ -20,3 +20,7 @@ wys_pok = room_height / 64
 var _map = ds_map_create()
 _map[? 1] = obj_sciana
 _map[? 7] = obj_wall_icy
+
+scr_spawn_objects_from_tiles("TileLayer", _map)
+
+ds_map_destroy(_map)
