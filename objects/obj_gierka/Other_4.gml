@@ -19,15 +19,15 @@ wys_pok = room_height / 64
 
 var _map = ds_map_create()
 
-_map[? 1] = obj_sciana
-_map[? 2] = obj_sciana
-_map[? 10] = obj_sciana
-_map[? 11] = obj_sciana
-_map[? 12] = obj_sciana
-_map[? 16] = obj_sciana
-_map[? 17] = obj_sciana
-_map[? 32] = obj_sciana
-_map[? 33] = obj_sciana
+_map[? 1] = obj_wall
+_map[? 2] = obj_wall
+_map[? 10] = obj_wall
+_map[? 11] = obj_wall
+_map[? 12] = obj_wall
+_map[? 16] = obj_wall
+_map[? 17] = obj_wall
+_map[? 32] = obj_wall
+_map[? 33] = obj_wall
 
 _map[? 7] = obj_wall_icy
 _map[? 8] = obj_wall_icy

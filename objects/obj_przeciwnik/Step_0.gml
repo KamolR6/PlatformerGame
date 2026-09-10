@@ -1,7 +1,7 @@
 // Inherit the parent event
 event_inherited();
 
-if(place_meeting(x,y + vspeed + 1, obj_sciana)){
+if(place_meeting(x,y + vspeed + 1, obj_wall)){
 	vspeed = 0
 	gravity = 0
 	friction = 1
@@ -10,7 +10,7 @@ if(place_meeting(x,y + vspeed + 1, obj_sciana)){
 	friction = 0
 }
 if (!rosnie){
-	if(place_meeting(x+move_speed*ruch,y,obj_sciana)){
+	if(place_meeting(x+move_speed*ruch,y,obj_wall)){
 		ruch = -ruch
 	}else{
 		x += move_speed * ruch ;

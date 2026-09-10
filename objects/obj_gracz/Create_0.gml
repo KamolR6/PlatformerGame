@@ -9,7 +9,7 @@ if (global.loading_game) {
 }
 
 base_move_speed = 4;
-base_jump_height = 12;
+base_jump_height = 10;
 jumpNumber = 2;
 lewo = 0;
 prawo = 0;
