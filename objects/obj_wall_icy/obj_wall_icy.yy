@@ -8,8 +8,8 @@
   "name":"obj_wall_icy",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Walls",
+    "path":"folders/Objects/Walls.yy",
   },
   "parentObjectId":{
     "name":"obj_parent_wall",
