@@ -92,6 +92,7 @@
     {"id":{"name":"mouse_right","path":"sprites/mouse_right/mouse_right.yy",},},
     {"id":{"name":"spr_battery","path":"sprites/spr_battery/spr_battery.yy",},},
     {"id":{"name":"spr_charge_level","path":"sprites/spr_charge_level/spr_charge_level.yy",},},
+    {"id":{"name":"spr_crate","path":"sprites/spr_crate/spr_crate.yy",},},
     {"id":{"name":"spr_gracz","path":"sprites/spr_gracz/spr_gracz.yy",},},
     {"id":{"name":"spr_kamera","path":"sprites/spr_kamera/spr_kamera.yy",},},
     {"id":{"name":"spr_lodowa","path":"sprites/spr_lodowa/spr_lodowa.yy",},},
