@@ -1,6 +1,5 @@
-// w obj_pomniejszacz, przed ustawieniem target_scale
-if(!collision_circle(x,y,128,obj_gracz,1,1)){
-var _min_scale = 0.06; // najmniejszy dozwolony rozmiar
+if (other.object_index != obj_gracz) {
+	var _min_scale = 0.06; // najmniejszy dozwolony rozmiar
 
 	other.start_scale = other.image_xscale;
 	other.start_x = other.x;
